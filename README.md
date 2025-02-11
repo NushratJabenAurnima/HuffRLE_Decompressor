@@ -1,8 +1,8 @@
-## 📌 Data Compression & Decompression Using Huffman and RLE  
+# 📌 Data Compression & Decompression Using Huffman and RLE  
 A high-performance **data compression and decompression system** utilizing **Huffman Coding and Run-Length Encoding (RLE)**. This project efficiently compresses text data and provides a method for decompression using trie-based retrieval.
 
 
-# 🚀 Project Overview  
+## 🚀 Project Overview  
 This project implements a **hybrid compression technique** combining **Huffman Coding** and **Run-Length Encoding (RLE)** to reduce the size of text-based data. The system also performs **performance analysis** based on time and space complexity.
 
 ### 🔹 **Key Features**
@@ -12,7 +12,7 @@ This project implements a **hybrid compression technique** combining **Huffman C
 - **Performance Analysis** – Theoretical and practical evaluation of time and space complexity.
 - **Memory Efficiency** – Efficient use of **dynamic memory allocation** to store compressed data.
 
----
+
 
 ## 📜 **Problem Approach**
 The primary goal of this project is **efficient data compression and retrieval**, minimizing memory usage while maintaining fast encoding and decoding. The approach consists of:
@@ -23,7 +23,7 @@ The primary goal of this project is **efficient data compression and retrieval**
 5. **Storage in Trie Structure** – The encoded sequence is stored in a Trie for efficient decompression.
 6. **Decoding & Decompression** – RLE-decoded data is mapped back using the Huffman tree to retrieve the original text.
 
----
+
 
 ## 🏛 **System Architecture**
 | **Component** | **Description** |
@@ -45,7 +45,7 @@ The primary goal of this project is **efficient data compression and retrieval**
 - Encoded Text Storage: **O(n)**
 - **Overall Space Complexity**: **O(n)**
 
----
+
 
 ## 🛠 **Installation & Setup**
 ### **1️⃣ Clone the Repository**
@@ -66,7 +66,7 @@ gcc -o compression UPDATED.c
 ```
 It will prompt the user to enter the length of text for compression.
 
----
+
 
 ## 📊 **Performance Analysis**
 Theoretical and practical performance comparisons were conducted using datasets ranging from **1,000 to 1,000,000** characters.  
@@ -79,7 +79,7 @@ Theoretical and practical performance comparisons were conducted using datasets 
 - **Theoretical:** **O(n)**
 - **Practical:** Uses **~10% of the theoretical space** in real-world scenarios, demonstrating memory efficiency.
 
----
+
 
 ## 🏆 **Advantages**
 ✅ **Efficient Encoding & Decoding**  
