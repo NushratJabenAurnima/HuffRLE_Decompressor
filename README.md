@@ -1,11 +1,8 @@
-### **README.md**  
-
-# 📌 Data Compression & Decompression Using Huffman and RLE  
+## 📌 Data Compression & Decompression Using Huffman and RLE  
 A high-performance **data compression and decompression system** utilizing **Huffman Coding and Run-Length Encoding (RLE)**. This project efficiently compresses text data and provides a method for decompression using trie-based retrieval.
 
----
 
-## 🚀 Project Overview  
+# 🚀 Project Overview  
 This project implements a **hybrid compression technique** combining **Huffman Coding** and **Run-Length Encoding (RLE)** to reduce the size of text-based data. The system also performs **performance analysis** based on time and space complexity.
 
 ### 🔹 **Key Features**
