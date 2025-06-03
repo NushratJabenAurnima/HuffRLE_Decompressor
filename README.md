@@ -13,6 +13,14 @@ This project implements a **hybrid compression technique** combining **Huffman C
 - **Memory Efficiency** – Efficient use of **dynamic memory allocation** to store compressed data.
 
 
+## 🧑‍🤝‍🧑 Collaboration
+
+Project contributor:
+
+- [Zihad Khan](https://github.com/Zihad107)
+
+> _Thanks for the valuable contribution to the development of this system._
+
 
 ## 📜 **Problem Approach**
 The primary goal of this project is **efficient data compression and retrieval**, minimizing memory usage while maintaining fast encoding and decoding. The approach consists of:
